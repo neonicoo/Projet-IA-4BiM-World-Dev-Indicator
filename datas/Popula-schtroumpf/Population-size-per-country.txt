@@ -216,8 +216,3 @@
 2014	"YR2014"	"Yemen, Rep."	"YEM"	"25823485"
 2014	"YR2014"	"Zambia"	"ZMB"	"15399753"
 2014	"YR2014"	"Zimbabwe"	"ZWE"	"13586681"
-	""	""	""	""
-	""	""	""	""
-	""	""	""	""
-Data from database: World Development Indicators	""	""	""	""
-Last Updated: 12/16/2020	""	""	""	""
